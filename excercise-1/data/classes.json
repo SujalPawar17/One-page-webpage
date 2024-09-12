@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "AdvancedTechnicalWriting-API",
+    "ImageUrl": "images/Technical-Writing.jpg",
+    "Name": "Advanced Technical Writing - API",
+    "ShortDesc": "This course focuses on deepening the knowledge of technical content deliverable, containing instructions about how to effectively use and integrate with an API."
+  },
+  {
+    "ID": "XMLAuthor",
+    "ImageUrl": "images/Simplified-Technical-English.jpg",
+    "Name": "XML Author",
+    "ShortDesc": "This course focuses deepen the knowledge in XML Author, in any industry."
+  },
+  {
+    "ID": "BasicTechnicalWriting",
+    "ImageUrl": "images/Basic-DITAXML.jpg", 
+    "Name": "Basic Technical Writing",
+    "ShortDesc": "This course focuses on understanding the basics of technical writing."
+  },
+  {
+    "ID": "ConfluenceBasic",
+    "ImageUrl": "images/Authoring-Tools.jpg",
+    "Name": "Confluence Basic",
+    "ShortDesc": "This course guides end users to create easy-to-use and well-formatted content."
+  },
+  {
+    "ID": "ConfluenceAdvanced",
+    "ImageUrl": "images/Advanced-DITAXML.jpg",
+    "Name": "Confluence Advanced",
+    "ShortDesc": "This course focuses on managing and consuming documentation-type content."
+  },
+  {
+    "ID": "AdvancedTechnicalWriting-API",
+    "ImageUrl": "images/API-Documentation.jpg",
+    "Name": "Advanced API Documentation",
+    "ShortDesc": "This course focuses on creating API documentation with technical writing skills."
+  }
+]

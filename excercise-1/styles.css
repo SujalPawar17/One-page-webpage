@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-image: url('header-background.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #classes {
+    padding: 50px 0;
+  }
+  
+  footer {
+    background-color: #333;
+  }
+  
